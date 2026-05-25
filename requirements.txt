@@ -3,5 +3,5 @@ ultralytics
 torch
 torchvision
 pillow
-numpy
 requests
+numpy
